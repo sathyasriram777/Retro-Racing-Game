@@ -1,7 +1,6 @@
 import math
 from pickletools import read_unicodestring1
 from re import T
-from winreg import DeleteKeyEx
 import numpy
 import pygame
 import random
